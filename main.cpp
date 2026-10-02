@@ -7,7 +7,7 @@
 #include <fstream>
 #include <chrono>
 
-// ==========================================
+// =================================================
 // STRUCTURE DES VERTICES (Style RPG / Avancé)
 // Représente un sommet avec position, couleur, normale et texture
 // ==========================================
